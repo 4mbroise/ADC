@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,"Well, I as an employee find it very practical to be able to shop at least on weekends.","Sure, other people have to work in the shops on the weekend,"
+neither,"Well, I as an employee find it very practical to be able to shop at least on weekends.",but they can have days off during the week and run errands at their leisure while I'm stuck in the office.
+neither,"Well, I as an employee find it very practical to be able to shop at least on weekends.","Plus, the state wants me to spend my money,"
+neither,"Well, I as an employee find it very practical to be able to shop at least on weekends.",and how am I supposed to do that when the shops aren't open when I'm off work?
+attack,"Sure, other people have to work in the shops on the weekend,","Well, I as an employee find it very practical to be able to shop at least on weekends."
+neither,"Sure, other people have to work in the shops on the weekend,",but they can have days off during the week and run errands at their leisure while I'm stuck in the office.
+neither,"Sure, other people have to work in the shops on the weekend,","Plus, the state wants me to spend my money,"
+neither,"Sure, other people have to work in the shops on the weekend,",and how am I supposed to do that when the shops aren't open when I'm off work?
+neither,but they can have days off during the week and run errands at their leisure while I'm stuck in the office.,"Well, I as an employee find it very practical to be able to shop at least on weekends."
+attack,but they can have days off during the week and run errands at their leisure while I'm stuck in the office.,"Sure, other people have to work in the shops on the weekend,"
+neither,but they can have days off during the week and run errands at their leisure while I'm stuck in the office.,"Plus, the state wants me to spend my money,"
+neither,but they can have days off during the week and run errands at their leisure while I'm stuck in the office.,and how am I supposed to do that when the shops aren't open when I'm off work?
+support,"Plus, the state wants me to spend my money,","Well, I as an employee find it very practical to be able to shop at least on weekends."
+neither,"Plus, the state wants me to spend my money,","Sure, other people have to work in the shops on the weekend,"
+neither,"Plus, the state wants me to spend my money,",but they can have days off during the week and run errands at their leisure while I'm stuck in the office.
+neither,"Plus, the state wants me to spend my money,",and how am I supposed to do that when the shops aren't open when I'm off work?
+support,and how am I supposed to do that when the shops aren't open when I'm off work?,"Well, I as an employee find it very practical to be able to shop at least on weekends."
+neither,and how am I supposed to do that when the shops aren't open when I'm off work?,"Sure, other people have to work in the shops on the weekend,"
+neither,and how am I supposed to do that when the shops aren't open when I'm off work?,but they can have days off during the week and run errands at their leisure while I'm stuck in the office.
+neither,and how am I supposed to do that when the shops aren't open when I'm off work?,"Plus, the state wants me to spend my money,"

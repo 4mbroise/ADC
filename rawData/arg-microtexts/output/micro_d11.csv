@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,We should go to the Baltic Sea on the weekend.,"According to the weather report it'll be perfect beach weather,"
+neither,We should go to the Baltic Sea on the weekend.,"and one mustn't let this go to waste,"
+neither,We should go to the Baltic Sea on the weekend.,even if I do have to prepare a presentation for Tuesday.
+neither,We should go to the Baltic Sea on the weekend.,"Besides, I get to use my folks' big, comfy car."
+support,"According to the weather report it'll be perfect beach weather,",We should go to the Baltic Sea on the weekend.
+neither,"According to the weather report it'll be perfect beach weather,","and one mustn't let this go to waste,"
+neither,"According to the weather report it'll be perfect beach weather,",even if I do have to prepare a presentation for Tuesday.
+neither,"According to the weather report it'll be perfect beach weather,","Besides, I get to use my folks' big, comfy car."
+support,"and one mustn't let this go to waste,",We should go to the Baltic Sea on the weekend.
+neither,"and one mustn't let this go to waste,","According to the weather report it'll be perfect beach weather,"
+neither,"and one mustn't let this go to waste,",even if I do have to prepare a presentation for Tuesday.
+neither,"and one mustn't let this go to waste,","Besides, I get to use my folks' big, comfy car."
+attack,even if I do have to prepare a presentation for Tuesday.,We should go to the Baltic Sea on the weekend.
+neither,even if I do have to prepare a presentation for Tuesday.,"According to the weather report it'll be perfect beach weather,"
+neither,even if I do have to prepare a presentation for Tuesday.,"and one mustn't let this go to waste,"
+neither,even if I do have to prepare a presentation for Tuesday.,"Besides, I get to use my folks' big, comfy car."
+support,"Besides, I get to use my folks' big, comfy car.",We should go to the Baltic Sea on the weekend.
+neither,"Besides, I get to use my folks' big, comfy car.","According to the weather report it'll be perfect beach weather,"
+neither,"Besides, I get to use my folks' big, comfy car.","and one mustn't let this go to waste,"
+neither,"Besides, I get to use my folks' big, comfy car.",even if I do have to prepare a presentation for Tuesday.

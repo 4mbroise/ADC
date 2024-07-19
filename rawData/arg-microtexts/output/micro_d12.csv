@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,I can only recommend the new smartphone XYZ-123 to everyone.,"Of course the camera could be better,"
+neither,I can only recommend the new smartphone XYZ-123 to everyone.,as it only has mediocre resolution
+neither,I can only recommend the new smartphone XYZ-123 to everyone.,and images in dark surroundings are often snowy.
+neither,I can only recommend the new smartphone XYZ-123 to everyone.,But for snap shots that's still enough.
+attack,"Of course the camera could be better,",I can only recommend the new smartphone XYZ-123 to everyone.
+neither,"Of course the camera could be better,",as it only has mediocre resolution
+neither,"Of course the camera could be better,",and images in dark surroundings are often snowy.
+neither,"Of course the camera could be better,",But for snap shots that's still enough.
+neither,as it only has mediocre resolution,I can only recommend the new smartphone XYZ-123 to everyone.
+support,as it only has mediocre resolution,"Of course the camera could be better,"
+neither,as it only has mediocre resolution,and images in dark surroundings are often snowy.
+neither,as it only has mediocre resolution,But for snap shots that's still enough.
+neither,and images in dark surroundings are often snowy.,I can only recommend the new smartphone XYZ-123 to everyone.
+support,and images in dark surroundings are often snowy.,"Of course the camera could be better,"
+neither,and images in dark surroundings are often snowy.,as it only has mediocre resolution
+neither,and images in dark surroundings are often snowy.,But for snap shots that's still enough.
+neither,But for snap shots that's still enough.,I can only recommend the new smartphone XYZ-123 to everyone.
+attack,But for snap shots that's still enough.,"Of course the camera could be better,"
+neither,But for snap shots that's still enough.,as it only has mediocre resolution
+neither,But for snap shots that's still enough.,and images in dark surroundings are often snowy.

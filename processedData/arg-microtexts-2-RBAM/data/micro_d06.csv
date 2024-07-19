@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,Peter should close his snack bar as soon as possible.,"Pricing pressures are just too high,"
+neither,Peter should close his snack bar as soon as possible.,and his pool of customers is shrinking constantly.
+neither,Peter should close his snack bar as soon as possible.,"Of course he could do another big ad campaign,"
+neither,Peter should close his snack bar as soon as possible.,but that won't do the trick if the whole neighbourhood is going down the drain in the end.
+support,"Pricing pressures are just too high,",Peter should close his snack bar as soon as possible.
+neither,"Pricing pressures are just too high,",and his pool of customers is shrinking constantly.
+neither,"Pricing pressures are just too high,","Of course he could do another big ad campaign,"
+neither,"Pricing pressures are just too high,",but that won't do the trick if the whole neighbourhood is going down the drain in the end.
+support,and his pool of customers is shrinking constantly.,Peter should close his snack bar as soon as possible.
+neither,and his pool of customers is shrinking constantly.,"Pricing pressures are just too high,"
+neither,and his pool of customers is shrinking constantly.,"Of course he could do another big ad campaign,"
+neither,and his pool of customers is shrinking constantly.,but that won't do the trick if the whole neighbourhood is going down the drain in the end.
+neither,"Of course he could do another big ad campaign,",Peter should close his snack bar as soon as possible.
+neither,"Of course he could do another big ad campaign,","Pricing pressures are just too high,"
+attack,"Of course he could do another big ad campaign,",and his pool of customers is shrinking constantly.
+neither,"Of course he could do another big ad campaign,",but that won't do the trick if the whole neighbourhood is going down the drain in the end.
+neither,but that won't do the trick if the whole neighbourhood is going down the drain in the end.,Peter should close his snack bar as soon as possible.
+neither,but that won't do the trick if the whole neighbourhood is going down the drain in the end.,"Pricing pressures are just too high,"
+neither,but that won't do the trick if the whole neighbourhood is going down the drain in the end.,and his pool of customers is shrinking constantly.
+attack,but that won't do the trick if the whole neighbourhood is going down the drain in the end.,"Of course he could do another big ad campaign,"

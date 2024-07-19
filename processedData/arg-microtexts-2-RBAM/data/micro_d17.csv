@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,Excessive consumption of meat is unhealthy.,"Furthermore, the production of meat is comparably resource-intensive."
+support,Excessive consumption of meat is unhealthy.,We should thus all limit our consumption of meat rigorously.
+neither,Excessive consumption of meat is unhealthy.,One could worry that our farmers would then run into economic difficulties.
+neither,Excessive consumption of meat is unhealthy.,"However, no serious economist has confirmed this prediction to date."
+neither,"Furthermore, the production of meat is comparably resource-intensive.",Excessive consumption of meat is unhealthy.
+support,"Furthermore, the production of meat is comparably resource-intensive.",We should thus all limit our consumption of meat rigorously.
+neither,"Furthermore, the production of meat is comparably resource-intensive.",One could worry that our farmers would then run into economic difficulties.
+neither,"Furthermore, the production of meat is comparably resource-intensive.","However, no serious economist has confirmed this prediction to date."
+neither,We should thus all limit our consumption of meat rigorously.,Excessive consumption of meat is unhealthy.
+neither,We should thus all limit our consumption of meat rigorously.,"Furthermore, the production of meat is comparably resource-intensive."
+neither,We should thus all limit our consumption of meat rigorously.,One could worry that our farmers would then run into economic difficulties.
+neither,We should thus all limit our consumption of meat rigorously.,"However, no serious economist has confirmed this prediction to date."
+neither,One could worry that our farmers would then run into economic difficulties.,Excessive consumption of meat is unhealthy.
+neither,One could worry that our farmers would then run into economic difficulties.,"Furthermore, the production of meat is comparably resource-intensive."
+attack,One could worry that our farmers would then run into economic difficulties.,We should thus all limit our consumption of meat rigorously.
+neither,One could worry that our farmers would then run into economic difficulties.,"However, no serious economist has confirmed this prediction to date."
+neither,"However, no serious economist has confirmed this prediction to date.",Excessive consumption of meat is unhealthy.
+neither,"However, no serious economist has confirmed this prediction to date.","Furthermore, the production of meat is comparably resource-intensive."
+neither,"However, no serious economist has confirmed this prediction to date.",We should thus all limit our consumption of meat rigorously.
+attack,"However, no serious economist has confirmed this prediction to date.",One could worry that our farmers would then run into economic difficulties.

@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,It was clearly a mistake to include Tom in our football team.,"He's just not a team player, and often goes it alone."
+neither,It was clearly a mistake to include Tom in our football team.,"Plus he comes to training way too rarely,"
+neither,It was clearly a mistake to include Tom in our football team.,although he plays very well without training.
+neither,It was clearly a mistake to include Tom in our football team.,But the worst thing is his habit of always complaining to the referee.
+support,"He's just not a team player, and often goes it alone.",It was clearly a mistake to include Tom in our football team.
+neither,"He's just not a team player, and often goes it alone.","Plus he comes to training way too rarely,"
+neither,"He's just not a team player, and often goes it alone.",although he plays very well without training.
+neither,"He's just not a team player, and often goes it alone.",But the worst thing is his habit of always complaining to the referee.
+support,"Plus he comes to training way too rarely,",It was clearly a mistake to include Tom in our football team.
+neither,"Plus he comes to training way too rarely,","He's just not a team player, and often goes it alone."
+neither,"Plus he comes to training way too rarely,",although he plays very well without training.
+neither,"Plus he comes to training way too rarely,",But the worst thing is his habit of always complaining to the referee.
+neither,although he plays very well without training.,It was clearly a mistake to include Tom in our football team.
+neither,although he plays very well without training.,"He's just not a team player, and often goes it alone."
+attack,although he plays very well without training.,"Plus he comes to training way too rarely,"
+neither,although he plays very well without training.,But the worst thing is his habit of always complaining to the referee.
+support,But the worst thing is his habit of always complaining to the referee.,It was clearly a mistake to include Tom in our football team.
+neither,But the worst thing is his habit of always complaining to the referee.,"He's just not a team player, and often goes it alone."
+neither,But the worst thing is his habit of always complaining to the referee.,"Plus he comes to training way too rarely,"
+neither,But the worst thing is his habit of always complaining to the referee.,although he plays very well without training.

@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,Tuition fees should not generally be charged by universities.,"Universities are for all citizens, independent of their finances."
+neither,Tuition fees should not generally be charged by universities.,"Education and training are fundamental rights which the state, the society must provide."
+neither,Tuition fees should not generally be charged by universities.,"If a university lacks the funds, sponsors must be found."
+neither,Tuition fees should not generally be charged by universities.,Unfortunately this can lead to disagreeable dependencies in some cases.
+support,"Universities are for all citizens, independent of their finances.",Tuition fees should not generally be charged by universities.
+neither,"Universities are for all citizens, independent of their finances.","Education and training are fundamental rights which the state, the society must provide."
+neither,"Universities are for all citizens, independent of their finances.","If a university lacks the funds, sponsors must be found."
+neither,"Universities are for all citizens, independent of their finances.",Unfortunately this can lead to disagreeable dependencies in some cases.
+support,"Education and training are fundamental rights which the state, the society must provide.",Tuition fees should not generally be charged by universities.
+neither,"Education and training are fundamental rights which the state, the society must provide.","Universities are for all citizens, independent of their finances."
+neither,"Education and training are fundamental rights which the state, the society must provide.","If a university lacks the funds, sponsors must be found."
+neither,"Education and training are fundamental rights which the state, the society must provide.",Unfortunately this can lead to disagreeable dependencies in some cases.
+support,"If a university lacks the funds, sponsors must be found.",Tuition fees should not generally be charged by universities.
+neither,"If a university lacks the funds, sponsors must be found.","Universities are for all citizens, independent of their finances."
+neither,"If a university lacks the funds, sponsors must be found.","Education and training are fundamental rights which the state, the society must provide."
+neither,"If a university lacks the funds, sponsors must be found.",Unfortunately this can lead to disagreeable dependencies in some cases.
+neither,Unfortunately this can lead to disagreeable dependencies in some cases.,Tuition fees should not generally be charged by universities.
+neither,Unfortunately this can lead to disagreeable dependencies in some cases.,"Universities are for all citizens, independent of their finances."
+neither,Unfortunately this can lead to disagreeable dependencies in some cases.,"Education and training are fundamental rights which the state, the society must provide."
+attack,Unfortunately this can lead to disagreeable dependencies in some cases.,"If a university lacks the funds, sponsors must be found."

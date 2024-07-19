@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,"Although IBM's numbers haven't been staggering recently,","and the mood in the stock market could be better on the whole,"
+attack,"Although IBM's numbers haven't been staggering recently,",you should buy IBM shares if you want to invest.
+neither,"Although IBM's numbers haven't been staggering recently,","Because for one thing, their products will still sell in bad times,"
+neither,"Although IBM's numbers haven't been staggering recently,","and in addition, such a share is not as sensitive as those of other IT companies."
+neither,"and the mood in the stock market could be better on the whole,","Although IBM's numbers haven't been staggering recently,"
+attack,"and the mood in the stock market could be better on the whole,",you should buy IBM shares if you want to invest.
+neither,"and the mood in the stock market could be better on the whole,","Because for one thing, their products will still sell in bad times,"
+neither,"and the mood in the stock market could be better on the whole,","and in addition, such a share is not as sensitive as those of other IT companies."
+neither,you should buy IBM shares if you want to invest.,"Although IBM's numbers haven't been staggering recently,"
+neither,you should buy IBM shares if you want to invest.,"and the mood in the stock market could be better on the whole,"
+neither,you should buy IBM shares if you want to invest.,"Because for one thing, their products will still sell in bad times,"
+neither,you should buy IBM shares if you want to invest.,"and in addition, such a share is not as sensitive as those of other IT companies."
+neither,"Because for one thing, their products will still sell in bad times,","Although IBM's numbers haven't been staggering recently,"
+neither,"Because for one thing, their products will still sell in bad times,","and the mood in the stock market could be better on the whole,"
+support,"Because for one thing, their products will still sell in bad times,",you should buy IBM shares if you want to invest.
+neither,"Because for one thing, their products will still sell in bad times,","and in addition, such a share is not as sensitive as those of other IT companies."
+neither,"and in addition, such a share is not as sensitive as those of other IT companies.","Although IBM's numbers haven't been staggering recently,"
+neither,"and in addition, such a share is not as sensitive as those of other IT companies.","and the mood in the stock market could be better on the whole,"
+support,"and in addition, such a share is not as sensitive as those of other IT companies.",you should buy IBM shares if you want to invest.
+neither,"and in addition, such a share is not as sensitive as those of other IT companies.","Because for one thing, their products will still sell in bad times,"

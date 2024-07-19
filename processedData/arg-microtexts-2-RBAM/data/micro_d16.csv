@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,There are parliamentary elections soon,and traditionally the governing party is generous with popular promises in the run-up to federal elections.
+attack,There are parliamentary elections soon,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year."
+neither,There are parliamentary elections soon,Voters have become more sceptical.
+neither,There are parliamentary elections soon,Too many promises have not been kept.
+neither,and traditionally the governing party is generous with popular promises in the run-up to federal elections.,There are parliamentary elections soon
+attack,and traditionally the governing party is generous with popular promises in the run-up to federal elections.,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year."
+neither,and traditionally the governing party is generous with popular promises in the run-up to federal elections.,Voters have become more sceptical.
+neither,and traditionally the governing party is generous with popular promises in the run-up to federal elections.,Too many promises have not been kept.
+neither,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year.",There are parliamentary elections soon
+neither,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year.",and traditionally the governing party is generous with popular promises in the run-up to federal elections.
+neither,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year.",Voters have become more sceptical.
+neither,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year.",Too many promises have not been kept.
+neither,Voters have become more sceptical.,There are parliamentary elections soon
+neither,Voters have become more sceptical.,and traditionally the governing party is generous with popular promises in the run-up to federal elections.
+support,Voters have become more sceptical.,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year."
+neither,Voters have become more sceptical.,Too many promises have not been kept.
+neither,Too many promises have not been kept.,There are parliamentary elections soon
+neither,Too many promises have not been kept.,and traditionally the governing party is generous with popular promises in the run-up to federal elections.
+neither,Too many promises have not been kept.,"Nevertheless the head of government, Merkel, had better restrain herself in announcing handouts this year."
+support,Too many promises have not been kept.,Voters have become more sceptical.

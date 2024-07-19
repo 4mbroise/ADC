@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,In a few decades our society will have a disproportionate number of old people:,"the life expectancy is constantly rising,"
+neither,In a few decades our society will have a disproportionate number of old people:,and at the same time birth rates are declining.
+neither,In a few decades our society will have a disproportionate number of old people:,"Although having children has become more fashionable again in recent years,"
+neither,In a few decades our society will have a disproportionate number of old people:,these short-term fluctuations in birth rates don't change the general trend at all.
+support,"the life expectancy is constantly rising,",In a few decades our society will have a disproportionate number of old people:
+neither,"the life expectancy is constantly rising,",and at the same time birth rates are declining.
+neither,"the life expectancy is constantly rising,","Although having children has become more fashionable again in recent years,"
+neither,"the life expectancy is constantly rising,",these short-term fluctuations in birth rates don't change the general trend at all.
+support,and at the same time birth rates are declining.,In a few decades our society will have a disproportionate number of old people:
+neither,and at the same time birth rates are declining.,"the life expectancy is constantly rising,"
+neither,and at the same time birth rates are declining.,"Although having children has become more fashionable again in recent years,"
+neither,and at the same time birth rates are declining.,these short-term fluctuations in birth rates don't change the general trend at all.
+neither,"Although having children has become more fashionable again in recent years,",In a few decades our society will have a disproportionate number of old people:
+neither,"Although having children has become more fashionable again in recent years,","the life expectancy is constantly rising,"
+attack,"Although having children has become more fashionable again in recent years,",and at the same time birth rates are declining.
+neither,"Although having children has become more fashionable again in recent years,",these short-term fluctuations in birth rates don't change the general trend at all.
+neither,these short-term fluctuations in birth rates don't change the general trend at all.,In a few decades our society will have a disproportionate number of old people:
+neither,these short-term fluctuations in birth rates don't change the general trend at all.,"the life expectancy is constantly rising,"
+neither,these short-term fluctuations in birth rates don't change the general trend at all.,and at the same time birth rates are declining.
+attack,these short-term fluctuations in birth rates don't change the general trend at all.,"Although having children has become more fashionable again in recent years,"

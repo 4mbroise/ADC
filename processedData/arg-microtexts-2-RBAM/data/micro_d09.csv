@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,"You should watch less television,","as too much TV makes you stupid in the long run,"
+neither,"You should watch less television,",like your brother.
+neither,"You should watch less television,","It would be an exception if you only watched quiz shows,"
+neither,"You should watch less television,",but you tend to watch Big Brother and X-Diaries.
+support,"as too much TV makes you stupid in the long run,","You should watch less television,"
+neither,"as too much TV makes you stupid in the long run,",like your brother.
+neither,"as too much TV makes you stupid in the long run,","It would be an exception if you only watched quiz shows,"
+neither,"as too much TV makes you stupid in the long run,",but you tend to watch Big Brother and X-Diaries.
+neither,like your brother.,"You should watch less television,"
+support,like your brother.,"as too much TV makes you stupid in the long run,"
+neither,like your brother.,"It would be an exception if you only watched quiz shows,"
+neither,like your brother.,but you tend to watch Big Brother and X-Diaries.
+neither,"It would be an exception if you only watched quiz shows,","You should watch less television,"
+attack,"It would be an exception if you only watched quiz shows,","as too much TV makes you stupid in the long run,"
+neither,"It would be an exception if you only watched quiz shows,",like your brother.
+neither,"It would be an exception if you only watched quiz shows,",but you tend to watch Big Brother and X-Diaries.
+neither,but you tend to watch Big Brother and X-Diaries.,"You should watch less television,"
+neither,but you tend to watch Big Brother and X-Diaries.,"as too much TV makes you stupid in the long run,"
+neither,but you tend to watch Big Brother and X-Diaries.,like your brother.
+attack,but you tend to watch Big Brother and X-Diaries.,"It would be an exception if you only watched quiz shows,"

@@ -1,0 +1,21 @@
+relationType,argSrc,argTrg
+neither,Energy saving light bulbs contain a significant amount of toxins.,A commercially available bulb may contain for example up to five milligrams of mercury.
+support,Energy saving light bulbs contain a significant amount of toxins.,"That's why they should be taken off the market,"
+neither,Energy saving light bulbs contain a significant amount of toxins.,unless they're unbreakable.
+neither,Energy saving light bulbs contain a significant amount of toxins.,But precisely this is unfortunately not the case.
+support,A commercially available bulb may contain for example up to five milligrams of mercury.,Energy saving light bulbs contain a significant amount of toxins.
+neither,A commercially available bulb may contain for example up to five milligrams of mercury.,"That's why they should be taken off the market,"
+neither,A commercially available bulb may contain for example up to five milligrams of mercury.,unless they're unbreakable.
+neither,A commercially available bulb may contain for example up to five milligrams of mercury.,But precisely this is unfortunately not the case.
+neither,"That's why they should be taken off the market,",Energy saving light bulbs contain a significant amount of toxins.
+neither,"That's why they should be taken off the market,",A commercially available bulb may contain for example up to five milligrams of mercury.
+neither,"That's why they should be taken off the market,",unless they're unbreakable.
+neither,"That's why they should be taken off the market,",But precisely this is unfortunately not the case.
+attack,unless they're unbreakable.,Energy saving light bulbs contain a significant amount of toxins.
+neither,unless they're unbreakable.,A commercially available bulb may contain for example up to five milligrams of mercury.
+neither,unless they're unbreakable.,"That's why they should be taken off the market,"
+neither,unless they're unbreakable.,But precisely this is unfortunately not the case.
+neither,But precisely this is unfortunately not the case.,Energy saving light bulbs contain a significant amount of toxins.
+neither,But precisely this is unfortunately not the case.,A commercially available bulb may contain for example up to five milligrams of mercury.
+neither,But precisely this is unfortunately not the case.,"That's why they should be taken off the market,"
+attack,But precisely this is unfortunately not the case.,unless they're unbreakable.
